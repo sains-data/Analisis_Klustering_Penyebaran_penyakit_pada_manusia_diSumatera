@@ -296,9 +296,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Team
 
-**Data Engineering Team - Institut Teknologi Sumatera**
-- 📧 Contact: dataeng@itera.ac.id
-- 🌐 Website: https://itera.ac.id
+**Kelompok 9 ABD - Institut Teknologi Sumatera**
+Rahma Neliyana - 122450036
+Uliano Wilyam Purba - 122450098
+Jihan Putri Yani - 121450161
+Rendra Eka Prayoga - 122450112
 
 ---
 
