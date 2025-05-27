@@ -6,7 +6,7 @@ Sistem ini mengimplementasikan pipeline end-to-end untuk menganalisis dan mengel
 
 - Mengelompokkan wilayah berdasarkan pola penyakit menggunakan **KMeans Clustering**
 - Menganalisis **dominan penyakit** di tiap cluster
-- Menyediakan **dashboard interaktif** berbasis peta untuk membantu pengambilan kebijakan Dinas Kesehatan
+
 
 ---
 
@@ -51,11 +51,6 @@ sumut_clustering_pipeline/
 
 ### 🗃️ Penyimpanan & Query
 - HDFS (Data Lake)
-
-
-### 🗕️ Orkestrasi
-- Apache Airflow
-
 
 ### 📊 Visualisasi
 - Tableau / Power BI
