@@ -1,0 +1,38 @@
+# Requirements untuk Pipeline Clustering Penyakit Sumatera Utara
+# Core libraries untuk data processing dan machine learning
+
+# Data Processing
+pandas
+numpy
+python-dotenv
+
+# Database connectivity
+psycopg2-binary
+SQLAlchemy
+
+# Machine Learning & Analytics
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter & Notebook
+jupyterlab
+ipywidgets
+notebook
+
+# Big Data (PySpark akan diinstall via Docker image)
+pyspark  # Sudah tersedia di bitnami/spark image
+
+# Additional utilities
+requests
+urllib3
+openpyxl  # Untuk Excel export jika diperlukan
+
+# Development tools (optional)
+black
+flake8
+pytest
